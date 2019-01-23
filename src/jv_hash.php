@@ -3,6 +3,8 @@
  * Classe JV_HASH 
  */
 
+namespace jv_hash;
+
 /**
 * Permet de créer, vérifier des clés hashé
 */
