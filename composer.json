@@ -1,0 +1,18 @@
+{
+    "name": "jonovanvonghes/jv_hash",
+    "description": "Class HASH",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jonovan Vonghes",
+            "email": "jonovan.vonghes@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jv_hash\\": "src/"
+        }
+    }
+    "minimum-stability": "dev",
+    "require": {}
+}
