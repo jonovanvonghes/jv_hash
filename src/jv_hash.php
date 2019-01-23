@@ -1,6 +1,6 @@
 <?php 
 /**
- * Classe JV_HASH
+ * Classe JV_HASH 
  */
 
 /**
