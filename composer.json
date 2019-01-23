@@ -2,6 +2,7 @@
     "name": "jonovanvonghes/jv_hash",
     "description": "Class HASH",
     "type": "library",
+    "licence": "MIT",
     "authors": [
         {
             "name": "Jonovan Vonghes",
