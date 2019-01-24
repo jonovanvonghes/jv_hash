@@ -3,7 +3,7 @@
  * Classe JV_HASH 
  */
 
-namespace jv_hash;
+namespace JonovanVonghes\JvHash;
 
 /**
 * Permet de créer, vérifier des clés hashé

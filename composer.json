@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "jv_hash\\": "src/"
+            "JonovanVonghes\\JvHash\\": "src/"
         }
     },
     "minimum-stability": "dev",
